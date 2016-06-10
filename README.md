@@ -4,10 +4,17 @@
 - [Example](#example)
 - [Usage](#usage)
 - [Documentation](#documentation)
-- [CouchDBClient](##couchdbclientoptions)
+- [CouchDBClient](#couchdbclientoptions)
 - [#welcome](#welcomecallback)
 - [#createDB](#createdbname-callback)
 - [#getDB](#getdbname-callback)
+- [#deleteDB](#deletedbname-callback)
+- [#addDoc](#adddocname-id-rev-callback)
+- [#getDoc](#getdocname-id-callback)
+- [#deleteDoc](#deletedocname-id-rev-callback)
+- [#addView](#addviewname-id-obj-callback)
+- [#deleteView](#deleteviewname-id-rev-callback)
+- [#useView](#useviewname-id-view-key-callback)
 
 ## Example
 welcome.js
@@ -170,8 +177,8 @@ client.useView('test', 'stuff', 'all', 'hi', function (err, data) {
 });
 ```
 ## Test
-```bash
-npm test
+```sh
+$  npm test
 ```
 
 ## Lisence
