@@ -186,7 +186,7 @@ MIT
 
 
 [npm-image]: https://badge.fury.io/js/couchdb-client.svg
-[npm-url]: https://npmjs.org/package/couchdb-cliet
+[npm-url]: https://npmjs.org/package/couchdb-client
 [travis-image]: https://travis-ci.org/legodude17/couchdb-client.svg?branch=master
 [travis-url]: https://travis-ci.org/legodude17/couchdb-client
 [daviddm-image]: https://david-dm.org/legodude17/couchdb-client.svg?theme=shields.io
