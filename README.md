@@ -185,9 +185,9 @@ $  npm test
 MIT
 
 
-[npm-image]: https://badge.fury.io/js/online-game.svg
-[npm-url]: https://npmjs.org/package/online-game
-[travis-image]: https://travis-ci.org/legodude17/online-game.svg?branch=master
-[travis-url]: https://travis-ci.org/legodude17/online-game
-[daviddm-image]: https://david-dm.org/legodude17/online-game.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/legodude17/online-game
+[npm-image]: https://badge.fury.io/js/couchdb-client.svg
+[npm-url]: https://npmjs.org/package/couchdb-cliet
+[travis-image]: https://travis-ci.org/legodude17/couchdb-client.svg?branch=master
+[travis-url]: https://travis-ci.org/legodude17/couchdb-client
+[daviddm-image]: https://david-dm.org/legodude17/couchdb-client.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/legodude17/couchdb-client
