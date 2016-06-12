@@ -27,7 +27,7 @@
     "test": "mocha test.js"
   },
   "tonicTest": "https://tonicdev.com/npm/couchdb-client",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "repository": {
     "type": "git",
     "url": "https://github.com/legodude17/couchdb-client.git"
