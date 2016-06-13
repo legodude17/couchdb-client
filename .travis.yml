@@ -5,6 +5,4 @@ node_js:
   - v4
   - '0.12'
   - '0.10'
-before_install:
-  -sudo apt-get install couchdb -y
-  -couchdb
+before_install: sudo apt-get install couchdb -y && couchdb
