@@ -5,4 +5,4 @@ node_js:
   - v4
   - '0.12'
   - '0.10'
-  install: 'sudo apt-get install couchdb -y'
+  install: './install.sh'
