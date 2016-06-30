@@ -3,10 +3,10 @@
 var request = require('request');
 var CouchDBClient = function (options) {
     this.options = {};
-    Object.assign(this.options, options, {
+    Object.assign(this.options, {
         host: '127.0.0.1',
         port: '5984'
-    });
+    }, options);
     this.place = 'http://' + this.options.host + ':' + this.options.port;
 };
 function d(name, obj) {
